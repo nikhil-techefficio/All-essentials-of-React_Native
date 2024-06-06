@@ -5,7 +5,9 @@
 
 ## Steps to run the same 
  create react Native app
+
  npm install -g react-native-cli
+
  npx react-native init MyNewProject
   
 # Run command
