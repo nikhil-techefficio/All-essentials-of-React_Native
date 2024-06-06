@@ -29,6 +29,11 @@ npx react-native upgrade
    Go to android studos and open res -->drawable -->mouse click -- new --image assets
     we get a window and can change it 
 
+ # Change Name
+  To change name same on android go to path  android --> main--> res--> values -->
+
+
+
 
  
 
